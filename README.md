@@ -17,7 +17,7 @@ I was given a dataset consisting of Miles per Gallon(MPG) and other related feat
 </div>
 
 ### Concept :
-The fuel consumption of a vehicle depends on various things like it's weight, acceleration, horsepower, the number of cylinders in the engine and how old the car is. So, I have model based on multiple linear regression to make the predictions, if the other conditions are given.
+The fuel consumption of a vehicle depends on various things like it's weight, acceleration, horsepower, the number of cylinders in the engine and how old the car is. So, I have programmed a model based on multiple linear regression to make the predictions, if the other conditions are given.
 
 ### Citations :
 Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
