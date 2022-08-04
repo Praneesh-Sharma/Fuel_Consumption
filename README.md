@@ -18,3 +18,10 @@ I was given a dataset consisting of Miles per Gallon(MPG) and other related feat
 
 ### Concept :
 The fuel consumption of a vehicle depends on various things like it's weight, acceleration, horsepower, the number of cylinders in the engine and how old the car is. So, I have model based on multiple linear regression to make the predictions, if the other conditions are given.
+
+### Citations :
+Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
+
+Python Data Analysis Repository [https://github.com/hnawaz007/pythondataanalysis/blob/main/ML/Multiple%20Linear%20Regression%20Notebook.ipynb]
+
+Gabriel Atkin (2020) [https://www.youtube.com/watch?v=Q-mEPW2Zf4Q]
